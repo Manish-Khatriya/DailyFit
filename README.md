@@ -47,19 +47,19 @@ Provider (optional)
 ## Screenshots
 
 ### Splash Screen  
-![Splash Screen](https://drive.google.com/file/d/1jKGVSNizuVqe9AQTcpIXbNClBKxpVM0I/view?usp=sharing)
+![Splash Screen](https://drive.google.com/uc?export=view&id=1jKGVSNizuVqe9AQTcpIXbNClBKxpVM0I)
 
 ### Login Screen  
-![Login](https://drive.google.com/file/d/1CuBF6Ypai2KCtPYW_4Avafr7YibGwXs1/view?usp=sharing)
+![Login](https://drive.google.com/uc?export=view&id=1CuBF6Ypai2KCtPYW_4Avafr7YibGwXs1)
 
 ### Step Graph  
-![Step Graph](https://drive.google.com/file/d/1lQWt-111U69z0_-7keOGVbnhQfkSaMT8/view?usp=sharing)
+![Step Graph](https://drive.google.com/uc?export=view&id=1lQWt-111U69z0_-7keOGVbnhQfkSaMT8)
 
 ### Home Screen  
-![Home](https://drive.google.com/file/d/1vTLGA_0UThH0GZ_um2CfyGMyiqGHK449/view?usp=sharing)
+![Home](https://drive.google.com/uc?export=view&id=1vTLGA_0UThH0GZ_um2CfyGMyiqGHK449)
 
 ### User Profile  
-![Profile](https://drive.google.com/file/d/1kUpITcvptGZkIvBwgvBl0UQUZp-8OgG7/view?usp=sharing)
+![Profile](https://drive.google.com/uc?export=view&id=1kUpITcvptGZkIvBwgvBl0UQUZp-8OgG7)
 
 ---
 
