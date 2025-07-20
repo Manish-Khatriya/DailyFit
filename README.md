@@ -22,7 +22,7 @@ Follow these steps to run the app locally:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/DailyFit.git
+   git clone https://github.com/Manish-Khatriya/DailyFit.git
    cd DailyFit
 
 ---
