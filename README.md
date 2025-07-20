@@ -15,11 +15,6 @@
 - 🔒 Firebase App Check enabled (Play Integrity)  
 
 ---
-## 📦 Download APK
-
-[Click here to download DailyFit APK](https://drive.google.com/file/d/1DnuzLNivx38iITNtAux7vtCrjQa3KNp3/view?usp=sharing)
-
----
 
 ## 🚀 Setup Instructions
 
