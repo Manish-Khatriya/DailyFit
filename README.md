@@ -46,20 +46,20 @@ Provider (optional)
 
 ## Screenshots
 
-### Splash Screen  
-![Splash Screen](https://drive.google.com/uc?export=view&id=1jKGVSNizuVqe9AQTcpIXbNClBKxpVM0I)
+### 🔹 Splash Screen  
+[View Splash Screen](https://drive.google.com/uc?id=1jKGVSNizuVqe9AQTcpIXbNClBKxpVM0I)
 
-### Login Screen  
-![Login](https://drive.google.com/uc?export=view&id=1CuBF6Ypai2KCtPYW_4Avafr7YibGwXs1)
+### 🔹 Login Screen  
+[View Login Screen](https://drive.google.com/uc?id=1CuBF6Ypai2KCtPYW_4Avafr7YibGwXs1)
 
-### Step Graph  
-![Step Graph](https://drive.google.com/uc?export=view&id=1lQWt-111U69z0_-7keOGVbnhQfkSaMT8)
+### 🔹 Step Graph  
+[View Step Graph](https://drive.google.com/uc?id=1lQWt-111U69z0_-7keOGVbnhQfkSaMT8)
 
-### Home Screen  
-![Home](https://drive.google.com/uc?export=view&id=1vTLGA_0UThH0GZ_um2CfyGMyiqGHK449)
+### 🔹 Home Screen  
+[View Home Screen](https://drive.google.com/uc?id=1vTLGA_0UThH0GZ_um2CfyGMyiqGHK449)
 
-### User Profile  
-![Profile](https://drive.google.com/uc?export=view&id=1kUpITcvptGZkIvBwgvBl0UQUZp-8OgG7)
+### 🔹 User Profile  
+[View User Profile](https://drive.google.com/uc?id=1kUpITcvptGZkIvBwgvBl0UQUZp-8OgG7)
 
 ---
 
