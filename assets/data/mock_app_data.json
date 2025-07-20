@@ -1,0 +1,126 @@
+{
+  "dailyHealthSummary": [
+    {
+      "date": "2025-07-14",
+      "steps": 7500,
+      "caloriesBurned": 2200.50,
+      "waterIntake": 2.1
+    },
+    {
+      "date": "2025-07-15",
+      "steps": 8200,
+      "caloriesBurned": 2350.25,
+      "waterIntake": 2.5
+    },
+    {
+      "date": "2025-07-16",
+      "steps": 6800,
+      "caloriesBurned": 2050.75,
+      "waterIntake": 1.8
+    },
+    {
+      "date": "2025-07-17",
+      "steps": 9100,
+      "caloriesBurned": 2500.00,
+      "waterIntake": 2.8
+    },
+    {
+      "date": "2025-07-18",
+      "steps": 5500,
+      "caloriesBurned": 1900.10,
+      "waterIntake": 1.6
+    },
+    {
+      "date": "2025-07-19",
+      "steps": 10000,
+      "caloriesBurned": 2700.80,
+      "waterIntake": 3.0
+    },
+    {
+      "date": "2025-07-20",
+      "steps": 10200,
+      "caloriesBurned": 2450.60,
+      "waterIntake": 0.75
+    }
+  ],
+  "dailyMacroDetails": [
+    {
+      "date": "2025-07-14",
+      "carbsGrams": 220,
+      "proteinGrams": 75,
+      "fatGrams": 60
+    },
+    {
+      "date": "2025-07-15",
+      "carbsGrams": 250,
+      "proteinGrams": 80,
+      "fatGrams": 65
+    },
+    {
+      "date": "2025-07-16",
+      "carbsGrams": 200,
+      "proteinGrams": 70,
+      "fatGrams": 55
+    },
+    {
+      "date": "2025-07-17",
+      "carbsGrams": 280,
+      "proteinGrams": 90,
+      "fatGrams": 70
+    },
+    {
+      "date": "2025-07-18",
+      "carbsGrams": 180,
+      "proteinGrams": 65,
+      "fatGrams": 50
+    },
+    {
+      "date": "2025-07-19",
+      "carbsGrams": 300,
+      "proteinGrams": 95,
+      "fatGrams": 75
+    },
+    {
+      "date": "2025-07-20",
+      "carbsGrams": 100,
+      "proteinGrams": 80,
+      "fatGrams": 50
+    }
+  ],
+  "weightHistory": [
+    {
+      "date": "2023-11-25",
+      "weightKg": 57.0
+    },
+    {
+      "date": "2023-10-08",
+      "weightKg": 58.0
+    },
+    {
+      "date": "2023-08-24",
+      "weightKg": 60.0
+    },
+    {
+      "date": "2023-05-15",
+      "weightKg": 61.0
+    },
+    {
+      "date": "2023-03-21",
+      "weightKg": 59.0
+    },
+    {
+      "date": "2023-02-21",
+      "weightKg": 58.5
+    },
+    {
+      "date": "2023-01-10",
+      "weightKg": 59.0
+    }
+  ],
+  "userGoals": {
+    "dailyCalorieGoal": 2000,
+    "dailyStepGoal": 16000,
+    "dailyWaterGoalLitres": 2.5,
+    "targetWeightKg": 64
+  }
+}

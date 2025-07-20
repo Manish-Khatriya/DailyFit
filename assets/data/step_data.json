@@ -1,0 +1,11 @@
+{
+  "steps": [
+    {"day": "Mon", "count": 3400},
+    {"day": "Tue", "count": 5100},
+    {"day": "Wed", "count": 4600},
+    {"day": "Thu", "count": 6200},
+    {"day": "Fri", "count": 3900},
+    {"day": "Sat", "count": 7200},
+    {"day": "Sun", "count": 5800}
+  ]
+}
