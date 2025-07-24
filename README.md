@@ -47,19 +47,19 @@ Provider (optional)
 ## Screenshots
 
 ### 🔹 Splash Screen  
-[View Splash Screen](https://drive.google.com/uc?id=1jKGVSNizuVqe9AQTcpIXbNClBKxpVM0I)
+<img src="https://i.postimg.cc/sDXV3zDs/splash.png" width="400"/>
 
 ### 🔹 Login Screen  
-[View Login Screen](https://drive.google.com/uc?id=1CuBF6Ypai2KCtPYW_4Avafr7YibGwXs1)
+<img src="https://i.postimg.cc/G2xcmhyh/login.png" width="400"/>
 
 ### 🔹 Step Graph  
-[View Step Graph](https://drive.google.com/uc?id=1lQWt-111U69z0_-7keOGVbnhQfkSaMT8)
+<img src="https://i.postimg.cc/xdKQ6Tgy/steps.png" width="400"/>
 
 ### 🔹 Home Screen  
-[View Home Screen](https://drive.google.com/uc?id=1vTLGA_0UThH0GZ_um2CfyGMyiqGHK449)
+<img src="https://i.postimg.cc/Cx5drDfC/Home.png" width="400"/>
 
 ### 🔹 User Profile  
-[View User Profile](https://drive.google.com/uc?id=1kUpITcvptGZkIvBwgvBl0UQUZp-8OgG7)
+<img src="https://i.postimg.cc/Xq249HLR/profile.png" width="400"/>
 
 ---
 
